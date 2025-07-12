@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=20171631,CODECS="mp4a.40.2,avc1.64002a",RESOLUTION=1920x1080,FRAME-RATE=60,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7sEb1p-TVVdDeX5xoGa5dTk=Pz51/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://tvking.xyz:8080/live/Stv2991/A67121/8444.m3u8,
